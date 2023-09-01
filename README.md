@@ -1,6 +1,6 @@
 <hr>
 
-<img align="left" src="ascii.png" width="300" /> 
+
 
 ```yaml
 charly@chardbg@chstx64
